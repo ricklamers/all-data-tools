@@ -77,9 +77,16 @@ def merge(
 
     # Read in all existing entries as JSON from disk
     file_tools = []
-    if os.path.isfile(json_file):
-        with open(json_file, "rb") as f:
-            file_tools = json.load(f)
+
+    try:
+        if os.path.isfile(json_file):
+            with open(json_file, "rb") as f:
+                file_tools = json.load(f)
+    except Exception as e:
+        logging.error(
+            "Failed to read JSON at %s with error %s [%s]" % (json_file, e, type(e))
+        )
+        pass
 
     # Merge by letting the object with latest `object_date_field` win
     merged_file_tools = _merge_objects(
