@@ -15,7 +15,7 @@ DATETIME_FORMAT = "%Y-%m-%d %H:%M"
 
 
 def _construct_base_endpoint(
-    protocol="http", host="127.0.0.1:8080", project_slug="test_dcfr"
+    protocol, host, project_slug
 ):
     return f"{protocol}://{host}/nc/{project_slug}/api/v1/"
 
@@ -100,7 +100,7 @@ def merge(
         json.dump(merged_file_tools, f)
 
     # On API drop all records, and bulk insert
-    bulk_endpoint = _construct_base_endpoint() + f"{table}/bulk"
+    bulk_endpoint = _construct_base_endpoint(nc_protocol, nc_host, project_slug) + f"{table}/bulk"
 
     # Drop all tools returned by API
     requests.delete(
