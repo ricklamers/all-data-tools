@@ -14,9 +14,7 @@ from collections import OrderedDict
 DATETIME_FORMAT = "%Y-%m-%d %H:%M"
 
 
-def _construct_base_endpoint(
-    protocol, host, project_slug
-):
+def _construct_base_endpoint(protocol, host, project_slug):
     return f"{protocol}://{host}/nc/{project_slug}/api/v1/"
 
 
@@ -97,10 +95,12 @@ def merge(
 
     # On disk overwrite old file
     with open(json_file, "w") as f:
-        json.dump(merged_file_tools, f)
+        json_file.write(json.dumps(merged_file_tools, f, indent=2, sort_keys=True))
 
     # On API drop all records, and bulk insert
-    bulk_endpoint = _construct_base_endpoint(nc_protocol, nc_host, project_slug) + f"{table}/bulk"
+    bulk_endpoint = (
+        _construct_base_endpoint(nc_protocol, nc_host, project_slug) + f"{table}/bulk"
+    )
 
     # Drop all tools returned by API
     requests.delete(
