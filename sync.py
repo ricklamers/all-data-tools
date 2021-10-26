@@ -95,7 +95,7 @@ def merge(
 
     # On disk overwrite old file
     with open(json_file, "w") as f:
-        json_file.write(json.dumps(merged_file_tools, f, indent=2, sort_keys=True))
+        f.write(json.dumps(merged_file_tools, f, indent=2, sort_keys=True))
 
     # On API drop all records, and bulk insert
     bulk_endpoint = (
