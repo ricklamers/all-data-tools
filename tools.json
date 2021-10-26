@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "Category": "Orchestration,ML & AI,Infrastructure,Data Science notebooks",
+    "Closest alternatives": "Airflow,Google Colab",
+    "Description": "Build data pipelines, the easy way",
+    "Free version": "Yes",
+    "GitHub Stars": 1629,
+    "GitHub URL": "https://github.com/orchest/orchest",
+    "Licenses": "AGPL-3.0-only,Apache-2.0",
+    "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_MSDEtx_orchest-logo-white-square.jpg\",\"title\":\"orchest-logo-white-square.jpg\",\"mimetype\":\"image/jpeg\",\"size\":34766}]",
+    "Name": "Orchest",
+    "Operating systems": "WSL2,Linux,macOS",
+    "Primary interface": "GUI",
+    "Programming languages": "Bash,Python,R,Julia",
+    "Screenshots": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Screenshots_9AR5gZ_1.%20Orchest%20UI%20-%20Pipeline.png\",\"title\":\"1. Orchest UI - Pipeline.png\",\"mimetype\":\"image/png\",\"size\":997791},{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Screenshots_SRcg1O_3.%20Orchest%20UI%20-%20Environment%20builds.png\",\"title\":\"3. Orchest UI - Environment builds.png\",\"mimetype\":\"image/png\",\"size\":975675},{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Screenshots_TAn-_M_2.%20Orchest%20UI%20-%20integrated%20JupyterLab.png\",\"title\":\"2. Orchest UI - integrated JupyterLab.png\",\"mimetype\":\"image/png\",\"size\":1234676},{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Screenshots_tYsmjL_4.%20Orchest%20UI%20-%20Project.png\",\"title\":\"4. Orchest UI - Project.png\",\"mimetype\":\"image/png\",\"size\":714524}]",
+    "Self-hostable": "Yes",
+    "Vendors": "Orchest",
+    "Website": "https://www.orchest.io/",
+    "Year created": 2020,
+    "created_at": "2021-10-26T11:46:09.000Z",
+    "id": 1,
+    "updated_at": "2021-10-26T11:51:18.000Z"
+  }
+]
