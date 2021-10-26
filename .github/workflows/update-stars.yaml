@@ -1,11 +1,9 @@
 name: Update GH Star count
 
 on:
+  worfklow_dispatch:
   schedule:
     - cron: '0 23 * * *'
-
-    # For testing
-  worfklow_dispatch:
 
 concurrency:
   group: write-tools
