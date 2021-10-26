@@ -1,0 +1,51 @@
+name: Synchronize repo JSON and NocoDB
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+    # For testing
+  worfklow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "tools.json"
+      
+concurrency:
+  group: write-tools
+  
+jobs:
+  sync-json-nocodb:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+        
+      - name: Run sync script
+        env:
+          NC_PROJECT_SLUG: ${{ secrets.NC_PROJECT_SLUG }}
+          NC_TABLE_NAME: ${{ secrets.NC_TABLE_NAME }}
+          NC_XC_KEY: ${{ secrets.NC_XC_KEY }}
+          NC_PROTOCOL: ${{ secrets.NC_PROTOCOL }}
+          NC_HOST: ${{ secrets.NC_HOST }}
+        run: |
+          python sync.py merge
+      
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add tools.json
+          git commit --allow-empty -m "Updating tools.json"
+          git push
+  
+  
