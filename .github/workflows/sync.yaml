@@ -5,7 +5,7 @@ on:
     - cron: '0 * * * *'
 
     # For testing
-  worfklow_dispatch:
+  workflow_dispatch:
   push:
     branches:
       - main

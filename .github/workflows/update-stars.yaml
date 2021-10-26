@@ -1,7 +1,7 @@
 name: Update GH Star count
 
 on:
-  worfklow_dispatch:
+  workflow_dispatch:
   schedule:
     - cron: '0 23 * * *'
 
