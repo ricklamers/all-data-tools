@@ -14,7 +14,7 @@ Please add your/your faviorite **data** tool/product to the list! We want this l
 ### Entities
 The entities should be either tools or products. The goal is to map all relevant tools a data practitioner might want to use. Both open source and propietary products/tools are welcome. The goal is to be an exhaustive list.
 
-In addition, the tool should be generally available already. Tools in private alpha/beta/waitlisted are not appropriate for this list.
+In addition, the tool should be generally available already. Tools in private alpha/beta/waitlisted/sunsetted are not appropriate for this list.
 
 ### Licenses
 Licenses should all use the SPDX license format. Find out more on the [LF SPDX licences page](https://spdx.org/licenses/).
