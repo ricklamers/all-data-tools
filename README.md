@@ -1,7 +1,7 @@
 # The Data Tools initiative
 Navigating the space of data tools can be daunting. To combat this we need high quality, up-to-date and complete information.
 
-Through this initiative we hope to contribute to a good overview.
+The primary target audience for this list is data professionals trying to find the right tools to help them become more productive. Through this initiative we hope to contribute to a good overview.
 
 ### Technology
 The data is stored in the `tools.json` file in this repository which is consumed by a [NocoDB](https://github.com/nocodb/nocodb) instance running on https://alldatatools.com
