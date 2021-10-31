@@ -45,7 +45,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add tools.json
-          git commit -m "Updating tools.json"
-          git push
+          git commit -m "Updating tools.json" || true
+          git push || true
   
   
