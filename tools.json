@@ -7,7 +7,7 @@
     "GitHub Stars": 1629,
     "GitHub URL": "https://github.com/orchest/orchest",
     "Licenses": "AGPL-3.0-only,Apache-2.0",
-    "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_MSDEtx_orchest-logo-white-square.jpg\",\"title\":\"orchest-logo-white-square.jpg\",\"mimetype\":\"image/jpeg\",\"size\":34766}]",
+    "Logo": null,
     "Name": "Orchest",
     "Operating systems": "WSL2,Linux,macOS",
     "Primary interface": "GUI",
@@ -19,6 +19,6 @@
     "Year created": 2020,
     "created_at": "2021-10-26T11:46:09.000Z",
     "id": 1,
-    "updated_at": "2021-10-26T11:51:18.000Z"
+    "updated_at": "2021-10-31T17:37:24.000Z"
   }
 ]
