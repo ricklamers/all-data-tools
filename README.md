@@ -38,9 +38,10 @@ The initial setup is mostly inspired by the [Firstmark MAD Landscape](https://ma
   - NoSQL databases
   - NewSQL databases
   - Real-time databases
-  - Time series database
+  - Time series databases
   - Graph databases
   - MPP databases
+  - Key-value databases
   - ETL - ELT - data transformation
   - Reverse ETL
   - Data integration
@@ -72,11 +73,14 @@ The initial setup is mostly inspired by the [Firstmark MAD Landscape](https://ma
   - Data Science notebooks
   - Data Science platforms
   - ML platforms
+  - Programming libraries/frameworks
   - Data generation & labeling
   - Model building
+  - Metric tracking
   - Feature store
   - Deployment & production
   - Computer vision
+  - Vector database
   - Speech
   - Drift detection
   - NLP
