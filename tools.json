@@ -158,7 +158,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 1952,
     "GitHub URL": "https://github.com/awslabs/deequ",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Deequ_AWS.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Deequ_AWS.png\"}]",
@@ -173,7 +173,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1335,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "Infrastructure,Data management & prep",
@@ -202,7 +202,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 178,
     "GitHub URL": "https://github.com/quintoandar/butterfree",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Butterfree.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Butterfree.png\"}]",
@@ -217,14 +217,14 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1337,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "ML & AI,Data generation & labeling",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 15707,
     "GitHub URL": "https://github.com/tzutalin/labelImg",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-LabelImg.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-LabelImg.png\"}]",
@@ -239,7 +239,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1338,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "ML & AI,ML platforms",
@@ -312,7 +312,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 4895,
     "GitHub URL": "https://github.com/snorkel-team/snorkel",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Snorkel.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Snorkel.png\"}]",
@@ -327,7 +327,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1342,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "ML & AI,Data Science notebooks",
@@ -400,7 +400,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 423,
     "GitHub URL": "https://github.com/dssg/aequitas",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Aequitas_Bias__Fairness_Audit.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Aequitas_Bias__Fairness_Audit.png\"}]",
@@ -415,14 +415,14 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1346,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 4761,
     "GitHub URL": "https://github.com/airbnb/aerosolve",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Aerosolve.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Aerosolve.png\"}]",
@@ -437,14 +437,14 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1347,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 2866,
     "GitHub URL": "https://github.com/alibaba/Alink",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Alink.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Alink.png\"}]",
@@ -459,7 +459,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1348,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -598,7 +598,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 6422,
     "GitHub URL": "https://github.com/Angel-ML/angel",
     "Licenses": "Mixed",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Angel_ML.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Angel_ML.png\"}]",
@@ -613,7 +613,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1355,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "Infrastructure,Orchestration",
@@ -686,7 +686,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 2799,
     "GitHub URL": "https://github.com/uber/aresdb",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-AresDB.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-AresDB.png\"}]",
@@ -701,7 +701,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1359,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "Infrastructure,Orchestration",
@@ -752,7 +752,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 271,
     "GitHub URL": "https://github.com/pymetrics/audit-ai",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Audit_AI.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Audit_AI.png\"}]",
@@ -767,14 +767,14 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1362,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "Infrastructure,Orchestration",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 3866,
     "GitHub URL": "https://github.com/azkaban/azkaban",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Azkaban.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Azkaban.png\"}]",
@@ -789,7 +789,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1363,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "ML & AI,Data Science notebooks",
@@ -862,7 +862,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 29490,
     "GitHub URL": "https://github.com/google-research/bert",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-BERT.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-BERT.png\"}]",
@@ -877,14 +877,14 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1367,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 1160,
     "GitHub URL": "https://github.com/mila-iqia/blocks",
     "Licenses": "Mixed",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Blocks.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Blocks.png\"}]",
@@ -899,7 +899,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1368,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "Analytics,Visualization",
@@ -928,7 +928,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 726,
     "GitHub URL": "https://github.com/linkedin/brooklin",
     "Licenses": "BSD-2-Clause",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Brooklin.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Brooklin.png\"}]",
@@ -943,7 +943,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1370,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "Infrastructure,Data versioning",
@@ -972,7 +972,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 5389,
     "GitHub URL": "https://github.com/uber/cadence",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Cadence.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Cadence.png\"}]",
@@ -987,7 +987,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1372,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -1126,7 +1126,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 2617,
     "GitHub URL": "https://github.com/pyeve/cerberus",
     "Licenses": "ISC",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Cerberus.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Cerberus.png\"}]",
@@ -1141,7 +1141,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1379,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -1214,7 +1214,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 5281,
     "GitHub URL": "https://github.com/cleverhans-lab/cleverhans",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-CleverHans.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-CleverHans.png\"}]",
@@ -1229,7 +1229,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1383,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "Infrastructure,Time series databases",
@@ -1434,7 +1434,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 2871,
     "GitHub URL": "https://github.com/Rdatatable/data.table/wiki",
     "Licenses": "MPL-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-data.table.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-data.table.png\"}]",
@@ -1449,7 +1449,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1393,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "Infrastructure,ETL / ELT / data transformation",
@@ -1500,7 +1500,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 18399,
     "GitHub URL": "https://github.com/mozilla/DeepSpeech",
     "Licenses": "MPL-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-DeepSpeech.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-DeepSpeech.png\"}]",
@@ -1515,7 +1515,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1396,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "Infrastructure,Formats",
@@ -1676,7 +1676,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 2683,
     "GitHub URL": "https://github.com/alibaba/euler",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-euler.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-euler.png\"}]",
@@ -1691,14 +1691,14 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1404,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "Analytics,Visualization",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 6718,
     "GitHub URL": "https://github.com/PAIR-code/facets",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Facets.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Facets.png\"}]",
@@ -1713,7 +1713,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1405,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -1742,7 +1742,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 13216,
     "GitHub URL": "https://github.com/joke2k/faker",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Faker.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Faker.png\"}]",
@@ -1757,7 +1757,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1407,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -1808,7 +1808,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 3597,
     "GitHub URL": "https://github.com/FederatedAI/FATE",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-FATE.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-FATE.png\"}]",
@@ -1823,7 +1823,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1410,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "Infrastructure,Streaming/in-memory",
@@ -1852,7 +1852,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 562,
     "GitHub URL": "https://github.com/linkedin/FeatureFu",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-FeatureFu.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-FeatureFu.png\"}]",
@@ -1867,14 +1867,14 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1412,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 10896,
     "GitHub URL": "https://github.com/flairNLP/flair",
     "Licenses": "Mixed",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-flair.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-flair.png\"}]",
@@ -1889,7 +1889,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1413,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -2072,7 +2072,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 8062,
     "GitHub URL": "https://github.com/sjwhitworth/golearn",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-GoLearn.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-GoLearn.png\"}]",
@@ -2087,14 +2087,14 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1422,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 3862,
     "GitHub URL": "https://github.com/gradio-app/gradio",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Gradio.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Gradio.png\"}]",
@@ -2109,7 +2109,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1423,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "Analytics,Log analytics",
@@ -2336,7 +2336,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 22303,
     "GitHub URL": "https://github.com/influxdata/influxdb",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Influx.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Influx.png\"}]",
@@ -2351,14 +2351,14 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1434,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "Infrastructure,Data governance & access",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 639,
     "GitHub URL": "https://github.com/intake/intake",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Intake.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Intake.png\"}]",
@@ -2373,7 +2373,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1435,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:12:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -2446,7 +2446,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 1091,
     "GitHub URL": "https://github.com/kubeflow/katib",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Katib.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Katib.png\"}]",
@@ -2461,14 +2461,14 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1439,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "Infrastructure,Orchestration",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 4578,
     "GitHub URL": "https://github.com/quantumblacklabs/kedro",
     "Licenses": "Mixed",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Kedro.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Kedro.png\"}]",
@@ -2483,7 +2483,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1440,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "ML & AI,Model versioning",
@@ -2556,7 +2556,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 3003,
     "GitHub URL": "https://github.com/databricks/koalas",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Koalas.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Koalas.png\"}]",
@@ -2571,7 +2571,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1444,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "Infrastructure,Orchestration",
@@ -2710,7 +2710,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 9249,
     "GitHub URL": "https://github.com/marcotcr/lime",
     "Licenses": "BSD-2-Clause",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Lime.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Lime.png\"}]",
@@ -2725,7 +2725,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1451,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "Infrastructure,Data governance & access",
@@ -2820,7 +2820,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 4309,
     "GitHub URL": "https://github.com/tensorflow/lucid",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Lucid.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Lucid.png\"}]",
@@ -2835,7 +2835,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1456,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -2864,7 +2864,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 15100,
     "GitHub URL": "https://github.com/spotify/luigi",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Luigi.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Luigi.png\"}]",
@@ -2879,14 +2879,14 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1458,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "Analytics,Visualization",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 2950,
     "GitHub URL": "https://github.com/lux-org/lux",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Lux.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Lux.png\"}]",
@@ -2901,14 +2901,14 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1459,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "Analytics,Query engine",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 355,
     "GitHub URL": "https://github.com/apache/madlib",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-MADlib.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-MADlib.png\"}]",
@@ -2923,7 +2923,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1460,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "Infrastructure,Data governance & access",
@@ -3260,7 +3260,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 5451,
     "GitHub URL": "https://github.com/microsoft/MMdnn",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-MMdnn.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-MMdnn.png\"}]",
@@ -3275,14 +3275,14 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1476,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 4644,
     "GitHub URL": "https://github.com/facebookresearch/mmf",
     "Licenses": "Mixed",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-MMF.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-MMF.png\"}]",
@@ -3297,14 +3297,14 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1477,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 6183,
     "GitHub URL": "https://github.com/alibaba/MNN",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-MNN.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-MNN.png\"}]",
@@ -3319,14 +3319,14 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1478,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 6528,
     "GitHub URL": "https://github.com/modin-project/modin",
     "Licenses": "Mixed",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Modin.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Modin.png\"}]",
@@ -3341,7 +3341,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1479,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -3392,7 +3392,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 13020,
     "GitHub URL": "https://github.com/Tencent/ncnn",
     "Licenses": "Mixed",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-ncnn.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-ncnn.png\"}]",
@@ -3407,7 +3407,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1482,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -3436,7 +3436,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 1136,
     "GitHub URL": "https://github.com/Netflix/metacat",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Netflix_Metacat.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Netflix_Metacat.png\"}]",
@@ -3451,7 +3451,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1484,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "ML & AI,Model building",
@@ -4074,7 +4074,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 7691,
     "GitHub URL": "https://github.com/OpenMined/PySyft",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-PySyft.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-PySyft.png\"}]",
@@ -4089,7 +4089,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1513,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -4294,7 +4294,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 3637,
     "GitHub URL": "https://github.com/IDSIA/sacred",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Sacred.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Sacred.png\"}]",
@@ -4309,7 +4309,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1523,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "Infrastructure,Streaming/in-memory",
@@ -4470,7 +4470,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 14461,
     "GitHub URL": "https://github.com/slundberg/shap",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Shap.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Shap.png\"}]",
@@ -4485,7 +4485,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1531,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -4932,7 +4932,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": null,
+    "GitHub Stars": 2063,
     "GitHub URL": "https://github.com/salesforce/TransmogrifAI",
     "Licenses": "BSD-3-Clause",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-TransmogrifAI.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-TransmogrifAI.png\"}]",
@@ -4947,7 +4947,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1552,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-01T17:13:00.000Z"
   },
   {
     "Category": "Analytics,Query engine",
