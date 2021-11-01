@@ -12,11 +12,17 @@ from collections import OrderedDict
 
 
 DATETIME_FORMAT = "%Y-%m-%d %H:%M"
-
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 
 def _construct_base_endpoint(protocol, host, project_slug):
     return f"{protocol}://{host}/nc/{project_slug}/api/v1/"
 
+def _get_gh_request_headers(headers=None):
+    if headers is None:
+        headers = {}
+    if GITHUB_TOKEN is not None:
+        headers["Authorization"]: f"token {GITHUB_TOKEN}"}
+    return headers
 
 def _merge_objects(list_a, list_b, pk="id", date_field="updated_at"):
     """Requires objs in list_a|list_b to be JSON dictionaries with a
@@ -119,7 +125,7 @@ def _get_star_count(github_url):
     url = urlparse(github_url)
 
     _, owner, repo_name = url.path.split("/")[:3]
-    repo_info = requests.get("https://api.github.com/repos/" + owner + "/" + repo_name)
+    repo_info = requests.get("https://api.github.com/repos/" + owner + "/" + repo_name, headers=_get_gh_request_headers())
 
     return repo_info.json()["stargazers_count"]
 
