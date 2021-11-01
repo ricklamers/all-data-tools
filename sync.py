@@ -21,7 +21,7 @@ def _get_gh_request_headers(headers=None):
     if headers is None:
         headers = {}
     if GITHUB_TOKEN is not None:
-        headers["Authorization"]: f"token {GITHUB_TOKEN}"}
+        headers["Authorization"] = f"token {GITHUB_TOKEN}"
     return headers
 
 def _merge_objects(list_a, list_b, pk="id", date_field="updated_at"):
