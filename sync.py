@@ -110,13 +110,13 @@ def merge(
     )
 
     # Drop all tools returned by API
-    requests.delete(
-        bulk_endpoint,
-        json=[{object_pk: obj[object_pk]} for obj in api_tools],
-        headers={"xc-auth": xc_key},
-    )
-    print("Wait for idle state...")
-    time.sleep(10)
+    #requests.delete(
+    #    bulk_endpoint,
+    #    json=[{object_pk: obj[object_pk]} for obj in api_tools],
+    #    headers={"xc-auth": xc_key},
+    #)
+    #print("Wait for idle state...")
+    #time.sleep(10)
 
 
     print("Inserting %d records" % len(merged_file_tools))
