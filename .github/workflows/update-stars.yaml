@@ -40,6 +40,7 @@ jobs:
           git config user.email github-actions@github.com
           git add tools.json
           git commit -m "Updating tools.json for star count" || true
+          git pull
           git push || true
   
   
