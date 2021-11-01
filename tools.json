@@ -7,7 +7,7 @@
     "GitHub Stars": 1629,
     "GitHub URL": "https://github.com/orchest/orchest",
     "Licenses": "AGPL-3.0-only,Apache-2.0",
-    "Logo": null,
+    "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_1F6SxM_orchest-logo-white-square.jpg\",\"title\":\"orchest-logo-white-square.jpg\",\"mimetype\":\"image/jpeg\",\"size\":34766}]",
     "Name": "Orchest",
     "Operating systems": "WSL2,Linux,macOS",
     "Primary interface": "GUI",
@@ -19,7 +19,7 @@
     "Year created": 2020,
     "created_at": "2021-10-26T11:46:09.000Z",
     "id": 1,
-    "updated_at": "2021-11-01T12:28:16.000Z"
+    "updated_at": "2021-11-01T16:11:41.000Z"
   },
   {
     "Category": "ML & AI,Feature store",
