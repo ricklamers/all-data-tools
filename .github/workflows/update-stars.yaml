@@ -26,6 +26,7 @@ jobs:
         
       - name: Run sync script
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NC_PROJECT_SLUG: ${{ secrets.NC_PROJECT_SLUG }}
           NC_TABLE_NAME: ${{ secrets.NC_TABLE_NAME }}
           NC_XC_KEY: ${{ secrets.NC_XC_KEY }}
