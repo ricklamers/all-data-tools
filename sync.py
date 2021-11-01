@@ -3,6 +3,7 @@ import os
 import argparse
 import logging
 import datetime
+import time
 
 import requests
 
@@ -114,7 +115,11 @@ def merge(
         json=[{object_pk: obj[object_pk]} for obj in api_tools],
         headers={"xc-auth": xc_key},
     )
+    print("Wait for idle state...")
+    time.sleep(10)
 
+
+    print("Inserting %d records" % len(merged_file_tools))
     # Insert all records
     requests.post(bulk_endpoint, json=merged_file_tools, headers={"xc-auth": xc_key})
 
