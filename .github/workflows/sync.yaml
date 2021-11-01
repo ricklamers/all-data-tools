@@ -6,11 +6,6 @@ on:
 
     # For testing
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - "tools.json"
       
 concurrency:
   group: write-tools
