@@ -110,18 +110,22 @@ def merge(
     )
 
     # Drop all tools returned by API
-    #requests.delete(
-    #    bulk_endpoint,
-    #    json=[{object_pk: obj[object_pk]} for obj in api_tools],
-    #    headers={"xc-auth": xc_key},
-    #)
-    #print("Wait for idle state...")
-    #time.sleep(10)
+    del_resp = requests.delete(
+        bulk_endpoint,
+        json=[{object_pk: obj[object_pk]} for obj in api_tools],
+        headers={"xc-auth": xc_key},
+    )
+    if del_resp.status_code > 299:
+        logging.error("%d %s" % (del_resp.status_code, del_resp.content))
 
 
     print("Inserting %d records" % len(merged_file_tools))
     # Insert all records
-    requests.post(bulk_endpoint, json=merged_file_tools, headers={"xc-auth": xc_key})
+    post_resp = requests.post(bulk_endpoint, json=merged_file_tools, headers={"xc-auth": xc_key})
+
+    if post_resp.status_code > 299:
+        logging.error("%d %s" % (post_resp.status_code, post_resp.content))
+
 
 
 def _get_star_count(github_url):
