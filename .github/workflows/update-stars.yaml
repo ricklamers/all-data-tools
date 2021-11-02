@@ -26,6 +26,7 @@ jobs:
         
       - name: Run sync script
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NC_PROJECT_SLUG: ${{ secrets.NC_PROJECT_SLUG }}
           NC_TABLE_NAME: ${{ secrets.NC_TABLE_NAME }}
           NC_XC_KEY: ${{ secrets.NC_XC_KEY }}
@@ -37,8 +38,10 @@ jobs:
       - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git config pull.rebase false
           git add tools.json
-          git commit -m "Updating tools.json for star count"
-          git push
+          git commit -m "Updating tools.json for star count" || true
+          git pull
+          git push || true
   
   

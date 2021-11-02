@@ -6,11 +6,6 @@ on:
 
     # For testing
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - "tools.json"
       
 concurrency:
   group: write-tools
@@ -44,8 +39,10 @@ jobs:
       - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git config pull.rebase false
           git add tools.json
-          git commit -m "Updating tools.json"
-          git push
+          git commit -m "Updating tools.json" || true
+          git pull
+          git push || true
   
   
