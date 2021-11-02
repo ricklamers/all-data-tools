@@ -41,12 +41,14 @@ The initial setup is mostly inspired by the [Firstmark MAD Landscape](https://ma
   - Time series databases
   - Graph databases
   - MPP databases
+  - GPU databases
   - Key-value databases
-  - ETL - ELT - data transformation
+  - ETL / ELT / data transformation
   - Reverse ETL
   - Data integration
   - Data governance & access
-  - Privacy and security
+  - Data management & prep
+  - Privacy & security
   - Data observability
   - Data quality
   - Monitoring
@@ -60,15 +62,17 @@ The initial setup is mostly inspired by the [Firstmark MAD Landscape](https://ma
   - Supply chain security
   - Package management
 - Analytics
+  - Web/mobile/commerce analytics
   - BI platforms
   - Visualization
   - Data analyst platforms
   - Augmented analytics
-  - Data catalog and discovery
+  - Data catalog & discovery
   - Metrics store
   - Log analytics
   - Query engine
   - Search
+  - Statistical computing
 - ML & AI
   - Data Science notebooks
   - Data Science platforms
