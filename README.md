@@ -87,6 +87,7 @@ The initial setup is mostly inspired by the [Firstmark MAD Landscape](https://ma
   - Vector database
   - Speech
   - Drift detection
+  - Explainability
   - NLP
   - Model versioning
   - Synthetic media
