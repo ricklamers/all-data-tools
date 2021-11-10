@@ -14497,4 +14497,26 @@
     "id": 1986,
     "updated_at": "2021-11-01T17:40:58.000Z"
   }
+  {
+    "Category": "ML & AI, Explainability",
+    "Closest alternatives": null,
+    "Description": "A platform to create explainable machine learning deployments.",
+    "Free version": null,
+    "GitHub Stars": null,
+    "GitHub URL": "",
+    "Licenses": "",
+    "Logo": "",
+    "Name": "Deeploy",
+    "Operating systems": null,
+    "Primary interface": null,
+    "Programming languages": null,
+    "Screenshots": null,
+    "Self-hostable": null,
+    "Vendors": null,
+    "Website": "https://deeploy.ml",
+    "Year created": null,
+    "created_at": "2021-11-10T15:00:00.000Z",
+    "id": 1987,
+    "updated_at": "2021-11-10T15:00:00.000Z"
+  }
 ]
