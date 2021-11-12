@@ -354,10 +354,10 @@
   {
     "Category": "Infrastructure,Key-value databases",
     "Closest alternatives": null,
-    "Description": null,
+    "Description": "Apache Accumulo\u00ae is a sorted, distributed key/value store that provides robust, scalable data storage and retrieval.",
     "Free version": null,
     "GitHub Stars": null,
-    "GitHub URL": "",
+    "GitHub URL": "https://github.com/apache/accumulo",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Accumulo.png\", \"mimetype\": \"image/png\", \"size\": 1616, \"title\": \"generated-Accumulo.png\"}]",
     "Name": "Accumulo",
@@ -371,7 +371,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1345,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-12T13:31:37.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -530,10 +530,10 @@
   {
     "Category": "Infrastructure,Data governance & access",
     "Closest alternatives": null,
-    "Description": null,
+    "Description": "Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.",
     "Free version": null,
     "GitHub Stars": null,
-    "GitHub URL": "",
+    "GitHub URL": "https://github.com/amundsen-io/amundsen",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Amundsen.png\", \"mimetype\": \"image/png\", \"size\": 1649, \"title\": \"generated-Amundsen.png\"}]",
     "Name": "Amundsen",
@@ -547,7 +547,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1353,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-12T13:35:10.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -596,10 +596,10 @@
   {
     "Category": "Infrastructure,Orchestration",
     "Closest alternatives": null,
-    "Description": null,
+    "Description": "A platform to programmatically author, schedule, and monitor workflows",
     "Free version": null,
     "GitHub Stars": null,
-    "GitHub URL": "",
+    "GitHub URL": "https://github.com/apache/airflow",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Apache_Airflow.png\", \"mimetype\": \"image/png\", \"size\": 12414, \"title\": \"generated-Apache_Airflow.png\"}]",
     "Name": "Apache Airflow",
@@ -613,15 +613,15 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1356,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-12T13:35:53.000Z"
   },
   {
     "Category": "Analytics,Query engine",
     "Closest alternatives": null,
-    "Description": null,
+    "Description": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing",
     "Free version": null,
     "GitHub Stars": null,
-    "GitHub URL": "",
+    "GitHub URL": "https://github.com/apache/arrow",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Apache_Arrow.png\", \"mimetype\": \"image/png\", \"size\": 5021, \"title\": \"generated-Apache_Arrow.png\"}]",
     "Name": "Apache Arrow",
@@ -635,7 +635,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1357,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-12T13:36:20.000Z"
   },
   {
     "Category": "Analytics,Query engine",
@@ -662,10 +662,10 @@
   {
     "Category": "Infrastructure,Orchestration",
     "Closest alternatives": null,
-    "Description": null,
+    "Description": "Workflow engine for Kubernetes",
     "Free version": null,
     "GitHub Stars": null,
-    "GitHub URL": "",
+    "GitHub URL": "https://github.com/argoproj/argo-workflows",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Argo.png\", \"mimetype\": \"image/png\", \"size\": 49828, \"title\": \"generated-Argo.png\"}]",
     "Name": "Argo",
@@ -679,15 +679,15 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1360,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-12T13:41:12.000Z"
   },
   {
     "Category": "Infrastructure,Data governance & access",
     "Closest alternatives": null,
-    "Description": null,
+    "Description": "Apache Atlas framework is an extensible set of core foundational governance services \u2013 enabling enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the whole enterprise data ecosystem.",
     "Free version": null,
     "GitHub Stars": null,
-    "GitHub URL": "",
+    "GitHub URL": "https://github.com/apache/atlas",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Atlas.png\", \"mimetype\": \"image/png\", \"size\": 1616, \"title\": \"generated-Atlas.png\"}]",
     "Name": "Atlas",
@@ -701,7 +701,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1361,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-12T13:42:13.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -6888,10 +6888,10 @@
   {
     "Category": "Infrastructure,Data quality",
     "Closest alternatives": null,
-    "Description": null,
+    "Description": "Apache Griffin is an open source Data Quality solution for Big Data, which supports both batch and streaming mode.",
     "Free version": null,
     "GitHub Stars": null,
-    "GitHub URL": "",
+    "GitHub URL": "https://github.com/apache/griffin",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Apache_Griffin.png\", \"mimetype\": \"image/png\", \"size\": 29825, \"title\": \"generated-Apache_Griffin.png\"}]",
     "Name": "Apache Griffin",
@@ -6905,7 +6905,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1643,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-12T13:37:30.000Z"
   },
   {
     "Category": "Infrastructure,NoSQL databases",
@@ -6954,10 +6954,10 @@
   {
     "Category": "Infrastructure,Graph databases",
     "Closest alternatives": null,
-    "Description": null,
+    "Description": "Distributed Graph Database",
     "Free version": null,
     "GitHub Stars": null,
-    "GitHub URL": "",
+    "GitHub URL": "https://github.com/thinkaurelius/titan",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Aurelius_TitanDB.png\", \"mimetype\": \"image/png\", \"size\": 494, \"title\": \"generated-Aurelius_TitanDB.png\"}]",
     "Name": "Aurelius TitanDB",
@@ -6971,7 +6971,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1646,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-12T13:43:09.000Z"
   },
   {
     "Category": "Infrastructure,ETL / ELT / data transformation",
@@ -14324,10 +14324,10 @@
   {
     "Category": "Infrastructure,Data integration",
     "Closest alternatives": null,
-    "Description": null,
+    "Description": "A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.",
     "Free version": null,
     "GitHub Stars": null,
-    "GitHub URL": "",
+    "GitHub URL": "https://github.com/apache/gobblin",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Apache_Gobblin.png\", \"mimetype\": \"image/png\", \"size\": 17508, \"title\": \"generated-Apache_Gobblin.png\"}]",
     "Name": "Apache Gobblin",
@@ -14341,7 +14341,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1981,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-12T13:36:54.000Z"
   },
   {
     "Category": "Infrastructure,RDBMS",
@@ -14461,7 +14461,7 @@
     "GitHub Stars": null,
     "GitHub URL": "",
     "Licenses": "",
-    "Logo": "",
+    "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_zyto6l_cropped-Deeploy_fav2-32x32.png\",\"title\":\"cropped-Deeploy_fav2-32x32.png\",\"mimetype\":\"image/png\",\"size\":849}]",
     "Name": "Deeploy",
     "Operating systems": null,
     "Primary interface": null,
@@ -14473,6 +14473,6 @@
     "Year created": null,
     "created_at": "2021-11-10T15:00:00.000Z",
     "id": 1987,
-    "updated_at": "2021-11-10T15:00:00.000Z"
+    "updated_at": "2021-11-12T13:30:51.000Z"
   }
 ]
