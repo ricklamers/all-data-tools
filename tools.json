@@ -2092,7 +2092,7 @@
   {
     "Category": "ML & AI,Programming libraries/frameworks",
     "Closest alternatives": null,
-    "Description": null,
+    "Description": "Create UIs for your machine learning model in Python in 3 minutes",
     "Free version": null,
     "GitHub Stars": 3862,
     "GitHub URL": "https://github.com/gradio-app/gradio",
@@ -2109,7 +2109,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1423,
-    "updated_at": "2021-11-01T17:12:00.000Z"
+    "updated_at": "2021-11-12T13:01:43.000Z"
   },
   {
     "Category": "Analytics,Log analytics",
