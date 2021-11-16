@@ -7,7 +7,7 @@ The primary target audience for this list is data professionals trying to find t
 The data is stored in the `tools.json` file in this repository which is consumed by a [NocoDB](https://github.com/nocodb/nocodb) instance running on https://alldatatools.com
 
 ## Collaboration
-Please add your/your faviorite **data** tool/product to the list! We want this list to be as inclusive as possible.
+Please add your/your favorite **data** tool/product to the list! We want this list to be as inclusive as possible.
 
 ## Structure
 
