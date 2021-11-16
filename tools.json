@@ -14520,14 +14520,14 @@
     "updated_at": "2021-11-16T08:19:46.000Z"
   },
   {
-    "Category": "Analytics",
+    "Category": "Analytics,Data analyst platforms",
     "Closest alternatives": null,
     "Description": "Collaborative SQL editor for your team. Write queries, visualize data, and share your results",
     "Free version": null,
     "GitHub Stars": null,
     "GitHub URL": null,
     "Licenses": null,
-    "Logo": null,
+    "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_ZPuk55_PopSQL%20-%20Collaborative%20SQL%20editor%20for%20teams%20-%20Download%20our%20SQL%20tool%20for%20Mac%2C%20Windows%2C%20and%20Linux.png\",\"title\":\"PopSQL - Collaborative SQL editor for teams - Download our SQL tool for Mac, Windows, and Linux.png\",\"mimetype\":\"image/png\",\"size\":32733}]",
     "Name": "PopSQL",
     "Operating systems": null,
     "Primary interface": null,
@@ -14539,6 +14539,6 @@
     "Year created": null,
     "created_at": "2021-11-16T20:07:35.000Z",
     "id": 1990,
-    "updated_at": "2021-11-16T20:09:19.000Z"
+    "updated_at": "2021-11-16T20:12:12.000Z"
   }
 ]
