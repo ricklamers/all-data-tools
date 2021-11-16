@@ -159,6 +159,7 @@ def update_stars(
         if (
             github_column in tool
             and github_star_column in tool
+            and tool[github_column] is not None
             and "http" in tool[github_column]
         ):
             try:
