@@ -14474,5 +14474,27 @@
     "created_at": "2021-11-10T15:00:00.000Z",
     "id": 1987,
     "updated_at": "2021-11-12T13:30:51.000Z"
+  },
+  {
+    "Category": "Infrastructure,Streaming/in-memory",
+    "Closest alternatives": null,
+    "Description": "Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter",
+    "Free version": "Yes",
+    "GitHub Stars": null,
+    "GitHub URL": "https://github.com/apache/incubator-heron",
+    "Licenses": "Apache-2.0",
+    "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_Squtee_IMG_3543.jpg\",\"title\":\"IMG_3543.jpg\",\"mimetype\":\"image/jpeg\",\"size\":32468}]",
+    "Name": "Heron",
+    "Operating systems": null,
+    "Primary interface": null,
+    "Programming languages": null,
+    "Screenshots": null,
+    "Self-hostable": "Yes",
+    "Vendors": null,
+    "Website": "https://github.com/apache/incubator-heron",
+    "Year created": null,
+    "created_at": "2021-11-16T07:54:27.000Z",
+    "id": 1988,
+    "updated_at": "2021-11-16T07:54:27.000Z"
   }
 ]
