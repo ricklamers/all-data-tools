@@ -58,6 +58,7 @@ The initial setup is mostly inspired by the [Firstmark MAD Landscape](https://ma
   - Formats
   - Orchestration
   - Data versioning
+  - Code versioning
   - CI/CD
   - Supply chain security
   - Package management
