@@ -14540,5 +14540,27 @@
     "created_at": "2021-11-16T20:07:35.000Z",
     "id": 1990,
     "updated_at": "2021-11-16T20:12:12.000Z"
+  },
+  {
+    "Category": "Data catalog and discovery,Analytics",
+    "Closest alternatives": null,
+    "Description": "Beyond a data catalog, Select Star is an intelligent data discovery platform that helps you understand your data.",
+    "Free version": null,
+    "GitHub Stars": null,
+    "GitHub URL": null,
+    "Licenses": null,
+    "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_TYf5zW_Zicm2M2U_400x400.jpg\",\"title\":\"Zicm2M2U_400x400.jpg\",\"mimetype\":\"image/jpeg\",\"size\":8640}]",
+    "Name": "Select Star",
+    "Operating systems": null,
+    "Primary interface": null,
+    "Programming languages": null,
+    "Screenshots": null,
+    "Self-hostable": null,
+    "Vendors": null,
+    "Website": "https://www.selectstar.com/",
+    "Year created": null,
+    "created_at": "2021-11-17T13:47:27.000Z",
+    "id": 1991,
+    "updated_at": "2021-11-17T13:47:27.000Z"
   }
 ]
