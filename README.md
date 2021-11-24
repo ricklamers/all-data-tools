@@ -98,4 +98,5 @@ The initial setup is mostly inspired by the [Firstmark MAD Landscape](https://ma
 
 ### Exclusions (up for debate)
 - Data labeling services. Annotation tools (e.g. Prodigy) are included.
-- Search engines (Elastic, Algolia, Meilisearch)
+- Search engines (e.g. Elastic, Algolia, Meilisearch)
+- Geospatial analysis tools (e.g. ArcGIS)
