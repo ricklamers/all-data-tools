@@ -1386,7 +1386,7 @@
     "updated_at": "2021-11-01T16:50:26.000Z"
   },
   {
-    "Category": "ML & AI,Programming libraries/frameworks",
+    "Category": "Programming libraries/frameworks,Analytics",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
@@ -1405,7 +1405,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1393,
-    "updated_at": "2021-11-01T17:12:00.000Z"
+    "updated_at": "2021-11-24T17:01:23.000Z"
   },
   {
     "Category": "Infrastructure,ETL / ELT / data transformation",
@@ -1848,7 +1848,7 @@
     "updated_at": "2021-11-01T17:44:40.000Z"
   },
   {
-    "Category": "ML & AI,Programming libraries/frameworks",
+    "Category": "Streaming/in-memory,Infrastructure",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
@@ -1867,7 +1867,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1414,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-24T17:04:27.000Z"
   },
   {
     "Category": "Analytics,Log analytics",
@@ -2508,7 +2508,7 @@
     "updated_at": "2021-11-01T16:50:26.000Z"
   },
   {
-    "Category": "ML & AI,Programming libraries/frameworks",
+    "Category": "Programming libraries/frameworks,Analytics",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
@@ -2527,7 +2527,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1444,
-    "updated_at": "2021-11-01T17:13:00.000Z"
+    "updated_at": "2021-11-24T17:04:51.000Z"
   },
   {
     "Category": "Infrastructure,Orchestration",
@@ -3278,7 +3278,7 @@
     "updated_at": "2021-11-01T17:47:59.000Z"
   },
   {
-    "Category": "ML & AI,Programming libraries/frameworks",
+    "Category": "Programming libraries/frameworks,Analytics",
     "Closest alternatives": null,
     "Description": "Modin: Speed up your Pandas workflows by changing a single line of code",
     "Free version": null,
@@ -3297,7 +3297,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1479,
-    "updated_at": "2021-11-01T17:47:01.000Z"
+    "updated_at": "2021-11-24T17:01:06.000Z"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -3498,7 +3498,7 @@
     "updated_at": "2021-11-01T16:50:26.000Z"
   },
   {
-    "Category": "ML & AI,Programming libraries/frameworks",
+    "Category": "Programming libraries/frameworks,Analytics",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
@@ -3517,7 +3517,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1489,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-24T17:02:20.000Z"
   },
   {
     "Category": "Infrastructure,Formats",
@@ -3718,7 +3718,7 @@
     "updated_at": "2021-11-01T16:50:26.000Z"
   },
   {
-    "Category": "ML & AI,Programming libraries/frameworks",
+    "Category": "Programming libraries/frameworks,Analytics",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
@@ -3737,7 +3737,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1499,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-24T17:02:38.000Z"
   },
   {
     "Category": "Infrastructure,Formats",
@@ -4972,7 +4972,7 @@
     "updated_at": "2021-11-01T16:50:26.000Z"
   },
   {
-    "Category": "ML & AI,Programming libraries/frameworks",
+    "Category": "Programming libraries/frameworks,Analytics",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
@@ -4991,7 +4991,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1556,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-24T17:03:31.000Z"
   },
   {
     "Category": "ML & AI,Vector database",
@@ -8819,28 +8819,6 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1730,
-    "updated_at": "2021-11-01T16:50:26.000Z"
-  },
-  {
-    "Category": "Infrastructure,Streaming/in-memory",
-    "Closest alternatives": null,
-    "Description": null,
-    "Free version": null,
-    "GitHub Stars": null,
-    "GitHub URL": "",
-    "Licenses": "",
-    "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Materialize.png\", \"mimetype\": \"image/png\", \"size\": 534, \"title\": \"generated-Materialize.png\"}]",
-    "Name": "Materialize",
-    "Operating systems": null,
-    "Primary interface": null,
-    "Programming languages": null,
-    "Screenshots": null,
-    "Self-hostable": null,
-    "Vendors": null,
-    "Website": "https://materialize.com",
-    "Year created": null,
-    "created_at": "2021-11-01T16:50:26.000Z",
-    "id": 1731,
     "updated_at": "2021-11-01T16:50:26.000Z"
   },
   {
@@ -13904,7 +13882,7 @@
     "updated_at": "2021-11-01T17:17:28.000Z"
   },
   {
-    "Category": "ML & AI,Programming libraries/frameworks",
+    "Category": "Programming libraries/frameworks,Analytics",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
@@ -13923,7 +13901,7 @@
     "Year created": null,
     "created_at": "2021-11-01T16:50:26.000Z",
     "id": 1962,
-    "updated_at": "2021-11-01T16:50:26.000Z"
+    "updated_at": "2021-11-24T17:03:08.000Z"
   },
   {
     "Category": "Infrastructure,Streaming/in-memory",
@@ -14606,5 +14584,71 @@
     "created_at": "2021-11-17T16:24:52.000Z",
     "id": 1993,
     "updated_at": "2021-11-17T16:26:22.000Z"
+  },
+  {
+    "Category": "Programming libraries/frameworks,Analytics",
+    "Closest alternatives": null,
+    "Description": "Bodo is a new just-in-time (JIT) inferential compiler that brings supercomputing-style performance and scalability to native Python analytics code automatically.",
+    "Free version": null,
+    "GitHub Stars": null,
+    "GitHub URL": null,
+    "Licenses": "Proprietary",
+    "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_yPNizA_favicon%20%282%29.png\",\"title\":\"favicon (2).png\",\"mimetype\":\"image/png\",\"size\":6833}]",
+    "Name": "Bodo",
+    "Operating systems": null,
+    "Primary interface": null,
+    "Programming languages": null,
+    "Screenshots": null,
+    "Self-hostable": null,
+    "Vendors": null,
+    "Website": "https://bodo.ai/",
+    "Year created": null,
+    "created_at": "2021-11-24T16:59:36.000Z",
+    "id": 1994,
+    "updated_at": "2021-11-24T16:59:36.000Z"
+  },
+  {
+    "Category": "Infrastructure,Streaming/in-memory",
+    "Closest alternatives": null,
+    "Description": "Materialize is a reactive database that delivers incremental view updates. We help developers easily build with streaming data using standard SQL.",
+    "Free version": null,
+    "GitHub Stars": null,
+    "GitHub URL": null,
+    "Licenses": "Proprietary",
+    "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_tBvupv_favicon%20%283%29.png\",\"title\":\"favicon (3).png\",\"mimetype\":\"image/png\",\"size\":589}]",
+    "Name": "Materialize",
+    "Operating systems": null,
+    "Primary interface": null,
+    "Programming languages": null,
+    "Screenshots": null,
+    "Self-hostable": null,
+    "Vendors": null,
+    "Website": "https://materialize.com/",
+    "Year created": null,
+    "created_at": "2021-11-24T17:09:38.000Z",
+    "id": 1995,
+    "updated_at": "2021-11-24T17:09:38.000Z"
+  },
+  {
+    "Category": "Infrastructure,Streaming/in-memory",
+    "Closest alternatives": null,
+    "Description": null,
+    "Free version": null,
+    "GitHub Stars": null,
+    "GitHub URL": "",
+    "Licenses": "",
+    "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Materialize.png\", \"mimetype\": \"image/png\", \"size\": 534, \"title\": \"generated-Materialize.png\"}]",
+    "Name": "Materialize",
+    "Operating systems": null,
+    "Primary interface": null,
+    "Programming languages": null,
+    "Screenshots": null,
+    "Self-hostable": null,
+    "Vendors": null,
+    "Website": "https://materialize.com",
+    "Year created": null,
+    "created_at": "2021-11-01T16:50:26.000Z",
+    "id": 1731,
+    "updated_at": "2021-11-01T16:50:26.000Z"
   }
 ]
