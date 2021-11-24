@@ -74,6 +74,7 @@ The initial setup is mostly inspired by the [Firstmark MAD Landscape](https://ma
   - Query engine
   - Search
   - Statistical computing
+  - Programming libraries/frameworks
 - ML & AI
   - Data Science notebooks
   - Data Science platforms
