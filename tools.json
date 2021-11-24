@@ -8822,6 +8822,28 @@
     "updated_at": "2021-11-01T16:50:26.000Z"
   },
   {
+    "Category": "Infrastructure,Streaming/in-memory",
+    "Closest alternatives": null,
+    "Description": null,
+    "Free version": null,
+    "GitHub Stars": null,
+    "GitHub URL": "",
+    "Licenses": "",
+    "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Materialize.png\", \"mimetype\": \"image/png\", \"size\": 534, \"title\": \"generated-Materialize.png\"}]",
+    "Name": "Materialize",
+    "Operating systems": null,
+    "Primary interface": null,
+    "Programming languages": null,
+    "Screenshots": null,
+    "Self-hostable": null,
+    "Vendors": null,
+    "Website": "https://materialize.com",
+    "Year created": null,
+    "created_at": "2021-11-01T16:50:26.000Z",
+    "id": 1731,
+    "updated_at": "2021-11-01T16:50:26.000Z"
+  },
+  {
     "Category": "Infrastructure,ETL / ELT / data transformation",
     "Closest alternatives": null,
     "Description": null,
@@ -14628,27 +14650,5 @@
     "created_at": "2021-11-24T17:09:38.000Z",
     "id": 1995,
     "updated_at": "2021-11-24T17:09:38.000Z"
-  },
-  {
-    "Category": "Infrastructure,Streaming/in-memory",
-    "Closest alternatives": null,
-    "Description": null,
-    "Free version": null,
-    "GitHub Stars": null,
-    "GitHub URL": "",
-    "Licenses": "",
-    "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Materialize.png\", \"mimetype\": \"image/png\", \"size\": 534, \"title\": \"generated-Materialize.png\"}]",
-    "Name": "Materialize",
-    "Operating systems": null,
-    "Primary interface": null,
-    "Programming languages": null,
-    "Screenshots": null,
-    "Self-hostable": null,
-    "Vendors": null,
-    "Website": "https://materialize.com",
-    "Year created": null,
-    "created_at": "2021-11-01T16:50:26.000Z",
-    "id": 1731,
-    "updated_at": "2021-11-01T16:50:26.000Z"
   }
 ]
