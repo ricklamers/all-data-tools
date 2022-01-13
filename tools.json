@@ -14650,5 +14650,27 @@
     "created_at": "2021-11-24T17:09:38.000Z",
     "id": 1995,
     "updated_at": "2021-11-24T17:09:38.000Z"
+  },
+  {
+    "Category": "Analytics,Programming libraries/frameworks",
+    "Closest alternatives": null,
+    "Description": "Xarray introduces labels in the form of dimensions, coordinates and attributes on top of raw NumPy-like arrays. It is particularly tailored to working with netCDF files, which are commonly used in climatology, meteorology and oceanography applications (e.g., weather forecasting, climate change).",
+    "Free version": null,
+    "GitHub Stars": 2373,
+    "GitHub URL": "https://github.com/pydata/xarray",
+    "Licenses": "Apache License 2.0",
+    "Logo": "",
+    "Name": "Xarray",
+    "Operating systems": null,
+    "Primary interface": null,
+    "Programming languages": "Python",
+    "Screenshots": null,
+    "Self-hostable": null,
+    "Vendors": null,
+    "Website": "https://xarray.pydata.org/en/stable/",
+    "Year created": null,
+    "created_at": "2022-01-13T20:00:00.000Z",
+    "id": 1996,
+    "updated_at": "2022-01-13T20:00:00.000Z"
   }
 ]
