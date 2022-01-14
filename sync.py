@@ -44,7 +44,7 @@ def _merge_objects(list_a, list_b, pk="id", date_field="updated_at"):
             a = merged_dict[obj[pk]]
             b = obj
 
-            if parser.parse(a[date_field]) < parser.parse(b[date_field]):
+            if parser.parse(a[date_field]).replace(tzinfo=None) < parser.parse(b[date_field]).replace(tzinfo=None):
                 merged_dict[obj[pk]] = b
         else:
             merged_dict[obj[pk]] = obj
