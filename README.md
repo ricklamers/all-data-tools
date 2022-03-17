@@ -4,7 +4,7 @@ Navigating the space of data tools can be daunting. To combat this we need high 
 The primary target audience for this list is data professionals trying to find the right tools to help them become more productive. Through this initiative we hope to contribute to a good overview. To limit the scope, only tools targeting a technical audience are welcome. That includes "low-code" tools, but "no-code" tools are not appropriate.
 
 ### Technology
-The data is stored in the `tools.json` file in this repository which is consumed by a [NocoDB](https://github.com/nocodb/nocodb) instance running on https://alldatatools.com
+The data is stored in the `tools.json` file in this repository which is consumed by a [NocoDB](https://github.com/nocodb/nocodb) instance running on [alldatatools.com](https://alldatatools.com)
 
 ## Collaboration
 Please add your/your favorite **data** tool/product to the list! We want this list to be as inclusive as possible.
