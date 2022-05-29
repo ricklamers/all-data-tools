@@ -164,6 +164,10 @@ def update_stars(
         ):
             try:
                 star_count = _get_star_count(tool[github_column])
+                
+                logging.info(
+                    "GitHub star count for %s %d" % (tool[github_column], star_count)
+                )
 
                 update_endpoint = (
                     _construct_base_endpoint(nc_protocol, nc_host, project_slug)
