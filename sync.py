@@ -131,12 +131,17 @@ def merge(
 
     print("Inserting %d records" % len(merged_file_tools))
     # Insert all records
-    post_resp = requests.post(bulk_endpoint, data=json.dumps(merged_file_tools), headers={"xc-auth": xc_key})
+    # Batch to avoid performance issues
+    mini_batch_size = 10
+    mini_batches = [merged_file_tools[i:i+mini_batch_size] for i in range(0, len(merged_file_tools), mini_batch_size)]
     
-    logging.info("Merged JSON object: %s" % json.dumps(merged_file_tools))
+    for mini_batch in mini_batches:
+        post_resp = requests.post(bulk_endpoint, data=json.dumps(mini_batch), headers={"xc-auth": xc_key})
+    
+        logging.info("Merged JSON object: %s" % json.dumps(mini_batch))
 
-    if post_resp.status_code > 299:
-        logging.error("%d %s" % (post_resp.status_code, post_resp.content))
+        if post_resp.status_code > 299:
+            logging.error("%d %s" % (post_resp.status_code, post_resp.content))
 
 
 
