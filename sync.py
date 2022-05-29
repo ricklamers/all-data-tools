@@ -122,7 +122,7 @@ def merge(
     # Drop all tools returned by API
     del_resp = requests.delete(
         bulk_endpoint,
-        json=[{object_pk: obj[object_pk]} for obj in api_tools],
+        data=json.dumps([{object_pk: obj[object_pk]} for obj in api_tools]),
         headers={"xc-auth": xc_key},
     )
     if del_resp.status_code > 299:
@@ -131,7 +131,7 @@ def merge(
 
     print("Inserting %d records" % len(merged_file_tools))
     # Insert all records
-    post_resp = requests.post(bulk_endpoint, json=merged_file_tools, headers={"xc-auth": xc_key})
+    post_resp = requests.post(bulk_endpoint, data=json.dumps(merged_file_tools), headers={"xc-auth": xc_key})
 
     if post_resp.status_code > 299:
         logging.error("%d %s" % (post_resp.status_code, post_resp.content))
@@ -189,12 +189,12 @@ def update_stars(
                     
                     resp = requests.patch(
                         update_endpoint,
-                        json={
+                        data=json.dumps({
                             object_date_field: datetime.datetime.utcnow().strftime(
                                 DATETIME_FORMAT
                             ),
                             github_star_column: star_count,
-                        },
+                        }),
                         headers={"xc-auth": xc_key},
                     )
                     
