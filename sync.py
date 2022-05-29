@@ -133,7 +133,7 @@ def merge(
     # Insert all records
     post_resp = requests.post(bulk_endpoint, data=json.dumps(merged_file_tools), headers={"xc-auth": xc_key})
     
-    logging.info("Merged JSON object: %s" % json.dumps(merged_file_tools)[:100])
+    logging.info("Merged JSON object: %s" % json.dumps(merged_file_tools))
 
     if post_resp.status_code > 299:
         logging.error("%d %s" % (post_resp.status_code, post_resp.content))
