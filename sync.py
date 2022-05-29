@@ -176,7 +176,8 @@ def update_stars(
 
                 # Make a PUT iff star_count changed
                 if tool[github_star_column] != star_count:
-                    requests.put(
+                    
+                    resp = requests.put(
                         update_endpoint,
                         json={
                             object_date_field: datetime.datetime.utcnow().strftime(
@@ -186,6 +187,11 @@ def update_stars(
                         },
                         headers={"xc-auth": xc_key},
                     )
+                    
+                    logging.info(
+                        "Request fired to update star count for %s %s" % (tool[github_column], str((resp.content, resp.status_code)))
+                    )
+                    
             except:
                 logging.info(
                     "Failed to get GitHub star count for %s" % tool[github_column]
