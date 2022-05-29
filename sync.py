@@ -122,7 +122,7 @@ def merge(
     # Drop all tools returned by API
     del_resp = requests.delete(
         bulk_endpoint,
-        data=json.dumps([{object_pk: obj[object_pk]} for obj in api_tools]),
+        json=[{object_pk: obj[object_pk]} for obj in api_tools],
         headers={"xc-auth": xc_key},
     )
     if del_resp.status_code > 299:
@@ -136,7 +136,7 @@ def merge(
     mini_batches = [merged_file_tools[i:i+mini_batch_size] for i in range(0, len(merged_file_tools), mini_batch_size)]
     
     for mini_batch in mini_batches:
-        post_resp = requests.post(bulk_endpoint, data=json.dumps(mini_batch), headers={"xc-auth": xc_key})
+        post_resp = requests.post(bulk_endpoint, json=mini_batch, headers={"xc-auth": xc_key})
     
         logging.info("Merged JSON object: %s" % json.dumps(mini_batch))
 
@@ -196,12 +196,12 @@ def update_stars(
                     
                     resp = requests.patch(
                         update_endpoint,
-                        data=json.dumps({
+                        json={
                             object_date_field: datetime.datetime.utcnow().strftime(
                                 DATETIME_FORMAT
                             ),
                             github_star_column: star_count,
-                        }),
+                        },
                         headers={"xc-auth": xc_key},
                     )
                     
