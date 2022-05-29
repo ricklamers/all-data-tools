@@ -61,6 +61,9 @@ def _get_list_from_api(table, row_limit, nc_protocol, nc_host, project_slug, xc_
         + f"{table}?limit={row_limit}"
     )
     resp = requests.get(get_endpoint, headers={"xc-auth": xc_key})
+    if resp.status_code >= 300:
+        logging.info(resp.content)
+        raise Exception("Failed to fetch list from API")
     return resp.json()
 
 
