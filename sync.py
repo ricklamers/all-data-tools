@@ -39,18 +39,18 @@ def _merge_objects(list_a, list_b, pk="id", date_field="updated_at"):
     merged_dict = OrderedDict()
 
     for obj in list_a:
-        merged_dict[obj[pk]] = obj
+        merged_dict[int(obj[pk])] = obj
 
     for obj in list_b:
-        if obj[pk] in merged_dict:
+        if int(obj[pk]) in merged_dict:
             # Compare updated_at entries
-            a = merged_dict[obj[pk]]
+            a = merged_dict[int(obj[pk])]
             b = obj
 
             if parser.parse(a[date_field]).replace(tzinfo=None) < parser.parse(b[date_field]).replace(tzinfo=None):
-                merged_dict[obj[pk]] = b
+                merged_dict[int(obj[pk])] = b
         else:
-            merged_dict[obj[pk]] = obj
+            merged_dict[int(obj[pk])] = obj
 
     return list(merged_dict.values())
 
@@ -64,7 +64,11 @@ def _get_list_from_api(table, row_limit, nc_protocol, nc_host, project_slug, xc_
     if resp.status_code >= 300:
         logging.info(resp.content)
         raise Exception("Failed to fetch list from API")
-    return resp.json()
+    json_response = resp.json()
+    
+    logging.info("Fetched %d entries" % len(json_response))
+    
+    return json_response 
 
 
 def merge(
