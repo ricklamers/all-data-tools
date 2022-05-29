@@ -16,7 +16,10 @@ DATETIME_FORMAT = "%Y-%m-%d %H:%M"
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 
 def _construct_base_endpoint(protocol, host, project_slug):
-    return f"{protocol}://{host}/nc/{project_slug}/api/v1/"
+    return f"{protocol}://{host}/api/v1/db/data/noco/{project_slug}/"
+
+def _construct_base_bulk_endpoint(protocol, host, project_slug):
+    return f"{protocol}://{host}/api/v1/db/data/bulk/noco/{project_slug}/"
 
 def _get_gh_request_headers(headers=None):
     if headers is None:
@@ -106,7 +109,7 @@ def merge(
 
     # On API drop all records, and bulk insert
     bulk_endpoint = (
-        _construct_base_endpoint(nc_protocol, nc_host, project_slug) + f"{table}/bulk"
+        _construct_base_bulk_endpoint(nc_protocol, nc_host, project_slug) + f"{table}"
     )
 
     # Drop all tools returned by API
@@ -177,7 +180,7 @@ def update_stars(
                 # Make a PUT iff star_count changed
                 if tool[github_star_column] != star_count:
                     
-                    resp = requests.put(
+                    resp = requests.patch(
                         update_endpoint,
                         json={
                             object_date_field: datetime.datetime.utcnow().strftime(
