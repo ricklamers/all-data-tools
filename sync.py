@@ -64,7 +64,7 @@ def _get_list_from_api(table, row_limit, nc_protocol, nc_host, project_slug, xc_
     if resp.status_code >= 300:
         logging.info(resp.content)
         raise Exception("Failed to fetch list from API")
-    json_response = resp.json()
+    json_response = resp.json()["list"]
     
     logging.info("Fetched %d entries" % len(json_response))
     
