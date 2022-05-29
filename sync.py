@@ -194,16 +194,20 @@ def update_stars(
                 # Make a PUT iff star_count changed
                 if tool[github_star_column] != star_count:
                     
+                    delta_obj = {
+                        object_date_field: datetime.datetime.utcnow().strftime(
+                            DATETIME_FORMAT
+                        ),
+                        github_star_column: star_count,
+                    }
                     resp = requests.patch(
                         update_endpoint,
-                        json={
-                            object_date_field: datetime.datetime.utcnow().strftime(
-                                DATETIME_FORMAT
-                            ),
-                            github_star_column: star_count,
-                        },
+                        json=delta_obj,
                         headers={"xc-auth": xc_key},
                     )
+
+                    logging.info(delta_obj)
+                    logging.info(update_endpoint)
                     
                     logging.info(
                         "Request fired to update star count for %s %s" % (tool[github_column], str((resp.content, resp.status_code)))
