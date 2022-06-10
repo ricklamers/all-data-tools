@@ -205,13 +205,10 @@ def update_stars(
                         headers={"xc-auth": xc_key},
                         json=delta_obj,
                     )
-
-                    logging.info(delta_obj)
-                    logging.info(update_endpoint)
-                    
-                    logging.info(
-                        "Request fired to update star count for %s %s" % (tool[github_column], str((resp.content, resp.status_code)))
-                    )
+                    if resp.status_code != 200:
+                        logging.info(
+                            "Request fired to update star count for %s %s and failed." % (tool[github_column], str((resp.content, resp.status_code)))
+                        )
                     
             except:
                 logging.info(
