@@ -202,8 +202,8 @@ def update_stars(
                     }
                     resp = requests.patch(
                         update_endpoint,
-                        data=json.dumps(delta_obj),
-                        headers={"xc-auth": xc_key, "Content-Type": "application/json"},
+                        headers={"xc-auth": xc_key},
+                        json=delta_obj,
                     )
 
                     logging.info(delta_obj)
