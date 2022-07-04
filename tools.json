@@ -4686,7 +4686,7 @@
     "updated_at": "2021-11-01 16:50:26"
   },
   {
-    "Category": "Analytics,Visualization",
+    "Category": "Analytics,Visualization,BI platforms",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
@@ -4705,7 +4705,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1543,
-    "updated_at": "2021-11-01 16:50:26"
+    "updated_at": "2022-07-04 09:48:35"
   },
   {
     "Category": "Analytics,Visualization",
@@ -14694,6 +14694,28 @@
     "created_at": "2022-01-20 12:22:56",
     "id": 1997,
     "updated_at": "2022-01-20 12:29:06"
+  },
+  {
+    "Category": "Analytics,BI platforms,Visualization",
+    "Closest alternatives": null,
+    "Description": "Holistics is a self-service BI platform that enables non-technical users to get access to analytics without bothering data teams.",
+    "Free version": null,
+    "GitHub Stars": null,
+    "GitHub URL": null,
+    "Licenses": null,
+    "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/uploads/noco/tools/tools/Logo/3s9M-8.png\",\"title\":\"holistics.png\",\"mimetype\":\"image/png\",\"size\":5884}]",
+    "Name": "Holistics",
+    "Operating systems": null,
+    "Primary interface": null,
+    "Programming languages": null,
+    "Screenshots": null,
+    "Self-hostable": null,
+    "Vendors": null,
+    "Website": "https://www.holistics.io/",
+    "Year created": null,
+    "created_at": "2022-07-04 09:49:18",
+    "id": 2001,
+    "updated_at": "2022-07-04 09:52:05"
   },
   {
     "Category": null,
