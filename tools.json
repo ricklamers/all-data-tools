@@ -14696,28 +14696,6 @@
     "updated_at": "2022-01-20 12:29:06"
   },
   {
-    "Category": "Analytics,BI platforms,Visualization",
-    "Closest alternatives": null,
-    "Description": "Holistics is a self-service BI platform that enables non-technical users to get access to analytics without bothering data teams.",
-    "Free version": null,
-    "GitHub Stars": null,
-    "GitHub URL": null,
-    "Licenses": null,
-    "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/uploads/noco/tools/tools/Logo/3s9M-8.png\",\"title\":\"holistics.png\",\"mimetype\":\"image/png\",\"size\":5884}]",
-    "Name": "Holistics",
-    "Operating systems": null,
-    "Primary interface": null,
-    "Programming languages": null,
-    "Screenshots": null,
-    "Self-hostable": null,
-    "Vendors": null,
-    "Website": "https://www.holistics.io/",
-    "Year created": null,
-    "created_at": "2022-07-04 09:49:18",
-    "id": 2001,
-    "updated_at": "2022-07-04 09:52:05"
-  },
-  {
     "Category": null,
     "Closest alternatives": null,
     "Description": null,
@@ -14760,5 +14738,27 @@
     "created_at": "2022-05-29 19:43:08",
     "id": 1999,
     "updated_at": "2022-05-29 19:43:08"
+  },
+  {
+    "Category": "Analytics,BI platforms,Visualization",
+    "Closest alternatives": null,
+    "Description": "Holistics is a self-service BI platform that enables non-technical users to get access to analytics without bothering data teams.",
+    "Free version": null,
+    "GitHub Stars": null,
+    "GitHub URL": null,
+    "Licenses": null,
+    "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/uploads/noco/tools/tools/Logo/3s9M-8.png\",\"title\":\"holistics.png\",\"mimetype\":\"image/png\",\"size\":5884}]",
+    "Name": "Holistics",
+    "Operating systems": null,
+    "Primary interface": null,
+    "Programming languages": null,
+    "Screenshots": null,
+    "Self-hostable": null,
+    "Vendors": null,
+    "Website": "https://www.holistics.io/",
+    "Year created": null,
+    "created_at": "2022-07-04 09:49:18",
+    "id": 2001,
+    "updated_at": "2022-07-04 09:52:05"
   }
 ]
