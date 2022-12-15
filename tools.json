@@ -158,7 +158,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 2576,
+    "GitHub Stars": 2579,
     "GitHub URL": "https://github.com/awslabs/deequ",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Deequ_AWS.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Deequ_AWS.png\"}]",
@@ -173,7 +173,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1335,
-    "updated_at": "2022-12-13 23:10:00"
+    "updated_at": "2022-12-15 23:10:00"
   },
   {
     "Category": "Infrastructure,Data management & prep",
@@ -202,7 +202,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 242,
+    "GitHub Stars": 243,
     "GitHub URL": "https://github.com/quintoandar/butterfree",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Butterfree.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Butterfree.png\"}]",
@@ -217,14 +217,14 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1337,
-    "updated_at": "2022-10-23 23:15:00"
+    "updated_at": "2022-12-15 23:10:00"
   },
   {
     "Category": "ML & AI,Data generation & labeling",
     "Closest alternatives": null,
     "Description": "LabelImg is a graphical image annotation tool",
     "Free version": null,
-    "GitHub Stars": 18873,
+    "GitHub Stars": 18884,
     "GitHub URL": "https://github.com/tzutalin/labelImg",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-LabelImg.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-LabelImg.png\"}]",
@@ -239,7 +239,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1338,
-    "updated_at": "2022-12-13 23:10:00"
+    "updated_at": "2022-12-15 23:10:00"
   },
   {
     "Category": "ML & AI,ML platforms",
@@ -312,7 +312,7 @@
     "Closest alternatives": null,
     "Description": "A system for quickly generating training data with weak supervision",
     "Free version": null,
-    "GitHub Stars": 5344,
+    "GitHub Stars": 5350,
     "GitHub URL": "https://github.com/snorkel-team/snorkel",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_YVRdSD_snorkel.png\",\"title\":\"snorkel.png\",\"mimetype\":\"image/png\",\"size\":34867}]",
@@ -327,7 +327,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1342,
-    "updated_at": "2022-12-12 23:10:00"
+    "updated_at": "2022-12-15 23:10:00"
   },
   {
     "Category": "ML & AI,Data Science notebooks",
@@ -356,7 +356,7 @@
     "Closest alternatives": null,
     "Description": "Apache Accumulo\u00ae is a sorted, distributed key/value store that provides robust, scalable data storage and retrieval.",
     "Free version": null,
-    "GitHub Stars": 955,
+    "GitHub Stars": 954,
     "GitHub URL": "https://github.com/apache/accumulo",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Accumulo.png\", \"mimetype\": \"image/png\", \"size\": 1616, \"title\": \"generated-Accumulo.png\"}]",
@@ -371,14 +371,14 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1345,
-    "updated_at": "2022-12-08 23:11:00"
+    "updated_at": "2022-12-15 23:10:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 509,
+    "GitHub Stars": 511,
     "GitHub URL": "https://github.com/dssg/aequitas",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Aequitas_Bias__Fairness_Audit.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Aequitas_Bias__Fairness_Audit.png\"}]",
@@ -393,7 +393,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1346,
-    "updated_at": "2022-12-13 23:10:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -422,7 +422,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 3262,
+    "GitHub Stars": 3263,
     "GitHub URL": "https://github.com/alibaba/Alink",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Alink.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Alink.png\"}]",
@@ -437,7 +437,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1348,
-    "updated_at": "2022-12-12 23:10:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -598,7 +598,7 @@
     "Closest alternatives": null,
     "Description": "A platform to programmatically author, schedule, and monitor workflows",
     "Free version": null,
-    "GitHub Stars": 28427,
+    "GitHub Stars": 28451,
     "GitHub URL": "https://github.com/apache/airflow",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Apache_Airflow.png\", \"mimetype\": \"image/png\", \"size\": 12414, \"title\": \"generated-Apache_Airflow.png\"}]",
@@ -613,14 +613,14 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1356,
-    "updated_at": "2022-12-13 23:10:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Analytics,Query engine",
     "Closest alternatives": null,
     "Description": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing",
     "Free version": null,
-    "GitHub Stars": 10777,
+    "GitHub Stars": 10792,
     "GitHub URL": "https://github.com/apache/arrow",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Apache_Arrow.png\", \"mimetype\": \"image/png\", \"size\": 5021, \"title\": \"generated-Apache_Arrow.png\"}]",
@@ -635,14 +635,14 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1357,
-    "updated_at": "2022-12-13 23:10:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Analytics,Query engine",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 2897,
+    "GitHub Stars": 2898,
     "GitHub URL": "https://github.com/uber/aresdb",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-AresDB.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-AresDB.png\"}]",
@@ -657,14 +657,14 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1359,
-    "updated_at": "2022-12-13 23:10:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Infrastructure,Orchestration",
     "Closest alternatives": null,
     "Description": "Workflow engine for Kubernetes",
     "Free version": null,
-    "GitHub Stars": 12215,
+    "GitHub Stars": 12228,
     "GitHub URL": "https://github.com/argoproj/argo-workflows",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Argo.png\", \"mimetype\": \"image/png\", \"size\": 49828, \"title\": \"generated-Argo.png\"}]",
@@ -679,14 +679,14 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1360,
-    "updated_at": "2022-12-13 23:10:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Infrastructure,Data governance & access",
     "Closest alternatives": null,
     "Description": "Apache Atlas framework is an extensible set of core foundational governance services \u2013 enabling enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the whole enterprise data ecosystem.",
     "Free version": null,
-    "GitHub Stars": 1421,
+    "GitHub Stars": 1420,
     "GitHub URL": "https://github.com/apache/atlas",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Atlas.png\", \"mimetype\": \"image/png\", \"size\": 1616, \"title\": \"generated-Atlas.png\"}]",
@@ -701,7 +701,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1361,
-    "updated_at": "2022-12-13 23:10:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -730,7 +730,7 @@
     "Closest alternatives": null,
     "Description": "Azkaban workflow manager.",
     "Free version": null,
-    "GitHub Stars": 4178,
+    "GitHub Stars": 4180,
     "GitHub URL": "https://github.com/azkaban/azkaban",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Azkaban.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Azkaban.png\"}]",
@@ -745,7 +745,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1363,
-    "updated_at": "2022-12-12 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Data Science notebooks",
@@ -818,7 +818,7 @@
     "Closest alternatives": null,
     "Description": "TensorFlow code and pre-trained models for BERT",
     "Free version": null,
-    "GitHub Stars": 32747,
+    "GitHub Stars": 32766,
     "GitHub URL": "https://github.com/google-research/bert",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_xPmqHy_43830688.png\",\"title\":\"43830688.png\",\"mimetype\":\"image/png\",\"size\":10262}]",
@@ -833,7 +833,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1367,
-    "updated_at": "2022-12-13 23:10:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -928,7 +928,7 @@
     "Closest alternatives": null,
     "Description": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",
     "Free version": null,
-    "GitHub Stars": 6466,
+    "GitHub Stars": 6469,
     "GitHub URL": "https://github.com/uber/cadence",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Cadence.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Cadence.png\"}]",
@@ -943,7 +943,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1372,
-    "updated_at": "2022-12-13 23:10:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -1390,7 +1390,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 3173,
+    "GitHub Stars": 3177,
     "GitHub URL": "https://github.com/Rdatatable/data.table/wiki",
     "Licenses": "MPL-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-data.table.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-data.table.png\"}]",
@@ -1405,14 +1405,14 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1393,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Infrastructure,ETL / ELT / data transformation",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 6187,
+    "GitHub Stars": 6200,
     "GitHub URL": "https://github.com/dbt-labs/dbt-core",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-dbt.png\", \"mimetype\": \"image/png\", \"size\": 3372, \"title\": \"generated-dbt.png\"}]",
@@ -1427,7 +1427,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1394,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -1456,7 +1456,7 @@
     "Closest alternatives": null,
     "Description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine",
     "Free version": null,
-    "GitHub Stars": 20695,
+    "GitHub Stars": 20711,
     "GitHub URL": "https://github.com/mozilla/DeepSpeech",
     "Licenses": "MPL-2.0",
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_s7I21R_131524.jpeg\",\"title\":\"131524.jpeg\",\"mimetype\":\"image/jpeg\",\"size\":2933}]",
@@ -1471,7 +1471,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1396,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Infrastructure,Formats",
@@ -1654,7 +1654,7 @@
     "Closest alternatives": null,
     "Description": "Visualizations for machine learning datasets",
     "Free version": null,
-    "GitHub Stars": 7046,
+    "GitHub Stars": 7050,
     "GitHub URL": "https://github.com/PAIR-code/facets",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Facets.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Facets.png\"}]",
@@ -1669,7 +1669,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1405,
-    "updated_at": "2022-12-11 23:10:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -1698,7 +1698,7 @@
     "Closest alternatives": null,
     "Description": "Faker is a Python package that generates fake data for you.",
     "Free version": null,
-    "GitHub Stars": 15152,
+    "GitHub Stars": 15165,
     "GitHub URL": "https://github.com/joke2k/faker",
     "Licenses": "MIT",
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_HFlFBJ_faker.png\",\"title\":\"faker.png\",\"mimetype\":\"image/png\",\"size\":2292}]",
@@ -1713,7 +1713,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1407,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -1764,7 +1764,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 4733,
+    "GitHub Stars": 4738,
     "GitHub URL": "https://github.com/FederatedAI/FATE",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-FATE.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-FATE.png\"}]",
@@ -1779,7 +1779,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1410,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Infrastructure,Streaming/in-memory",
@@ -1830,7 +1830,7 @@
     "Closest alternatives": null,
     "Description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)",
     "Free version": null,
-    "GitHub Stars": 12290,
+    "GitHub Stars": 12295,
     "GitHub URL": "https://github.com/flairNLP/flair",
     "Licenses": "Mixed",
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_yKlZgf_flair_logo_2020.png\",\"title\":\"flair_logo_2020.png\",\"mimetype\":\"image/png\",\"size\":2603}]",
@@ -1845,7 +1845,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1413,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Streaming/in-memory,Infrastructure",
@@ -2050,7 +2050,7 @@
     "Closest alternatives": null,
     "Description": "Create UIs for your machine learning model in Python in 3 minutes",
     "Free version": null,
-    "GitHub Stars": 11196,
+    "GitHub Stars": 11246,
     "GitHub URL": "https://github.com/gradio-app/gradio",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Gradio.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Gradio.png\"}]",
@@ -2065,7 +2065,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1423,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Analytics,Log analytics",
@@ -2292,7 +2292,7 @@
     "Closest alternatives": null,
     "Description": "Scalable datastore for metrics, events, and real-time analytics",
     "Free version": null,
-    "GitHub Stars": 24596,
+    "GitHub Stars": 24614,
     "GitHub URL": "https://github.com/influxdata/influxdb",
     "Licenses": "MIT",
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_i6TT5m_5713248.png\",\"title\":\"5713248.png\",\"mimetype\":\"image/png\",\"size\":13277}]",
@@ -2307,7 +2307,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1434,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Infrastructure,Data governance & access",
@@ -2424,7 +2424,7 @@
     "Closest alternatives": null,
     "Description": "A Python framework for creating reproducible, maintainable and modular data science code.",
     "Free version": null,
-    "GitHub Stars": 7884,
+    "GitHub Stars": 7887,
     "GitHub URL": "https://github.com/quantumblacklabs/kedro",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_9ouXS8_kedro.png\",\"title\":\"kedro.png\",\"mimetype\":\"image/png\",\"size\":15068}]",
@@ -2439,7 +2439,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1440,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Model versioning",
@@ -2666,7 +2666,7 @@
     "Closest alternatives": null,
     "Description": "Lime: Explaining the predictions of any machine learning classifier",
     "Free version": null,
-    "GitHub Stars": 10289,
+    "GitHub Stars": 10293,
     "GitHub URL": "https://github.com/marcotcr/lime",
     "Licenses": "BSD-2-Clause",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Lime.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Lime.png\"}]",
@@ -2681,7 +2681,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1451,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Infrastructure,Data governance & access",
@@ -2776,7 +2776,7 @@
     "Closest alternatives": null,
     "Description": "A collection of infrastructure and tools for research in neural network interpretability.",
     "Free version": null,
-    "GitHub Stars": 4475,
+    "GitHub Stars": 4476,
     "GitHub URL": "https://github.com/tensorflow/lucid",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Lucid.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Lucid.png\"}]",
@@ -2791,7 +2791,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1456,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -2820,7 +2820,7 @@
     "Closest alternatives": null,
     "Description": "Luigi is a Python module that helps you build complex pipelines of batch jobs.",
     "Free version": null,
-    "GitHub Stars": 16184,
+    "GitHub Stars": 16189,
     "GitHub URL": "https://github.com/spotify/luigi",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_xJvLa8_luigi.png\",\"title\":\"luigi.png\",\"mimetype\":\"image/png\",\"size\":22951}]",
@@ -2835,14 +2835,14 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1458,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Analytics,Visualization",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 4322,
+    "GitHub Stars": 4324,
     "GitHub URL": "https://github.com/lux-org/lux",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Lux.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Lux.png\"}]",
@@ -2857,7 +2857,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1459,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Analytics,Query engine",
@@ -3018,7 +3018,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": "Yes",
-    "GitHub Stars": 30811,
+    "GitHub Stars": 30829,
     "GitHub URL": "https://github.com/metabase/metabase",
     "Licenses": "AGPL-3.0-only",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Metabase.png\", \"mimetype\": \"image/png\", \"size\": 642, \"title\": \"generated-Metabase.png\"}]",
@@ -3033,7 +3033,7 @@
     "Year created": 2015,
     "created_at": "2021-11-01 16:50:26",
     "id": 1467,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Infrastructure,Orchestration",
@@ -3216,7 +3216,7 @@
     "Closest alternatives": null,
     "Description": "MMdnn is a set of tools to help users inter-operate among different deep learning frameworks.",
     "Free version": null,
-    "GitHub Stars": 5654,
+    "GitHub Stars": 5657,
     "GitHub URL": "https://github.com/microsoft/MMdnn",
     "Licenses": "MIT",
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_7LawOS_mmdnn.jpeg\",\"title\":\"mmdnn.jpeg\",\"mimetype\":\"image/jpeg\",\"size\":1300}]",
@@ -3231,14 +3231,14 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1476,
-    "updated_at": "2022-12-11 23:10:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
     "Closest alternatives": null,
     "Description": "A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)",
     "Free version": null,
-    "GitHub Stars": 5091,
+    "GitHub Stars": 5090,
     "GitHub URL": "https://github.com/facebookresearch/mmf",
     "Licenses": "Mixed",
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_IeO5yV_mmf.png\",\"title\":\"mmf.png\",\"mimetype\":\"image/png\",\"size\":10466}]",
@@ -3253,14 +3253,14 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1477,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
     "Closest alternatives": null,
     "Description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba",
     "Free version": null,
-    "GitHub Stars": 7216,
+    "GitHub Stars": 7224,
     "GitHub URL": "https://github.com/alibaba/MNN",
     "Licenses": "",
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_Y-Onqd_mnn.png\",\"title\":\"mnn.png\",\"mimetype\":\"image/png\",\"size\":58650}]",
@@ -3275,14 +3275,14 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1478,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Programming libraries/frameworks,Analytics",
     "Closest alternatives": null,
     "Description": "Modin: Speed up your Pandas workflows by changing a single line of code",
     "Free version": null,
-    "GitHub Stars": 8144,
+    "GitHub Stars": 8145,
     "GitHub URL": "https://github.com/modin-project/modin",
     "Licenses": "Mixed",
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_OJQwE0_moding-icon.png\",\"title\":\"moding-icon.png\",\"mimetype\":\"image/png\",\"size\":17279}]",
@@ -3297,7 +3297,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1479,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -3348,7 +3348,7 @@
     "Closest alternatives": null,
     "Description": "About\nncnn is a high-performance neural network inference framework optimized for the mobile platform",
     "Free version": null,
-    "GitHub Stars": 16091,
+    "GitHub Stars": 16104,
     "GitHub URL": "https://github.com/Tencent/ncnn",
     "Licenses": "Mixed",
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_MliOSD_256-ncnn.png\",\"title\":\"256-ncnn.png\",\"mimetype\":\"image/png\",\"size\":2539}]",
@@ -3363,7 +3363,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1482,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -3392,7 +3392,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 1376,
+    "GitHub Stars": 1375,
     "GitHub URL": "https://github.com/Netflix/metacat",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Netflix_Metacat.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Netflix_Metacat.png\"}]",
@@ -3407,7 +3407,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1484,
-    "updated_at": "2022-12-07 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Model building",
@@ -4030,7 +4030,7 @@
     "Closest alternatives": null,
     "Description": "A library for answering questions using data you cannot see",
     "Free version": null,
-    "GitHub Stars": 8482,
+    "GitHub Stars": 8486,
     "GitHub URL": "https://github.com/OpenMined/PySyft",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_PAgGqZ_syft.png\",\"title\":\"syft.png\",\"mimetype\":\"image/png\",\"size\":21869}]",
@@ -4045,7 +4045,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1513,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -4250,7 +4250,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 3959,
+    "GitHub Stars": 3960,
     "GitHub URL": "https://github.com/IDSIA/sacred",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Sacred.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Sacred.png\"}]",
@@ -4265,7 +4265,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1523,
-    "updated_at": "2022-12-12 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Infrastructure,Streaming/in-memory",
@@ -4426,7 +4426,7 @@
     "Closest alternatives": null,
     "Description": "A game theoretic approach to explain the output of any machine learning model.",
     "Free version": null,
-    "GitHub Stars": 18154,
+    "GitHub Stars": 18167,
     "GitHub URL": "https://github.com/slundberg/shap",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Shap.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Shap.png\"}]",
@@ -4441,7 +4441,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1531,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
@@ -4888,7 +4888,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 2144,
+    "GitHub Stars": 2145,
     "GitHub URL": "https://github.com/salesforce/TransmogrifAI",
     "Licenses": "BSD-3-Clause",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-TransmogrifAI.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-TransmogrifAI.png\"}]",
@@ -4903,7 +4903,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1552,
-    "updated_at": "2022-12-06 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Analytics,Query engine",
@@ -6956,7 +6956,7 @@
     "Closest alternatives": null,
     "Description": "Distributed Graph Database",
     "Free version": null,
-    "GitHub Stars": 5202,
+    "GitHub Stars": 5204,
     "GitHub URL": "https://github.com/thinkaurelius/titan",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Aurelius_TitanDB.png\", \"mimetype\": \"image/png\", \"size\": 494, \"title\": \"generated-Aurelius_TitanDB.png\"}]",
@@ -6971,7 +6971,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1646,
-    "updated_at": "2022-12-10 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Infrastructure,ETL / ELT / data transformation",
@@ -13886,7 +13886,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 3578,
+    "GitHub Stars": 3584,
     "GitHub URL": "https://github.com/orchest/orchest",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Orchest.png\", \"mimetype\": \"image/png\", \"size\": 520, \"title\": \"generated-Orchest.png\"}]",
@@ -13901,7 +13901,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1961,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Programming libraries/frameworks,Analytics",
@@ -13930,7 +13930,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 1542,
+    "GitHub Stars": 1543,
     "GitHub URL": "https://github.com/infinyon/fluvio",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Fluvio.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Fluvio.png\"}]",
@@ -13945,7 +13945,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1963,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "Infrastructure,Streaming/in-memory",
@@ -14084,7 +14084,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 5051,
+    "GitHub Stars": 5053,
     "GitHub URL": "https://github.com/oceanbase/oceanbase",
     "Licenses": "Mixed",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-OceanBase.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-OceanBase.png\"}]",
@@ -14099,7 +14099,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1970,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:11:00"
   },
   {
     "Category": "ML & AI,Vector database",
@@ -14172,7 +14172,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 5031,
+    "GitHub Stars": 5034,
     "GitHub URL": "https://github.com/nteract/papermill",
     "Licenses": "BSD-3-Clause",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-papermill.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-papermill.png\"}]",
@@ -14187,14 +14187,14 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1974,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:12:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 6651,
+    "GitHub Stars": 6661,
     "GitHub URL": "https://github.com/pycaret/pycaret",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-PyCaret.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-PyCaret.png\"}]",
@@ -14209,14 +14209,14 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1975,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:12:00"
   },
   {
     "Category": "ML & AI,Data Science notebooks",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 1496,
+    "GitHub Stars": 1500,
     "GitHub URL": "https://github.com/elyra-ai/elyra",
     "Licenses": "",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Elyra.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Elyra.png\"}]",
@@ -14231,14 +14231,14 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1976,
-    "updated_at": "2022-12-12 23:11:00"
+    "updated_at": "2022-12-15 23:12:00"
   },
   {
     "Category": "Infrastructure,Orchestration",
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 1963,
+    "GitHub Stars": 1964,
     "GitHub URL": "https://github.com/mara/mara-pipelines",
     "Licenses": "MIT",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-Mara_Pipelines.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-Mara_Pipelines.png\"}]",
@@ -14253,7 +14253,7 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1977,
-    "updated_at": "2022-12-07 23:11:00"
+    "updated_at": "2022-12-15 23:12:00"
   },
   {
     "Category": "Infrastructure,Data versioning",
@@ -14414,7 +14414,7 @@
     "Closest alternatives": null,
     "Description": null,
     "Free version": null,
-    "GitHub Stars": 3569,
+    "GitHub Stars": 3570,
     "GitHub URL": "https://github.com/iterative/cml",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\": \"https://all-data-tools.s3.us-east-1.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/generated-CML.png\", \"mimetype\": \"image/png\", \"size\": 958, \"title\": \"generated-CML.png\"}]",
@@ -14429,14 +14429,14 @@
     "Year created": null,
     "created_at": "2021-11-01 16:50:26",
     "id": 1985,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:12:00"
   },
   {
     "Category": "ML & AI,Programming libraries/frameworks",
     "Closest alternatives": null,
     "Description": "A game theoretic approach to explain the output of any machine learning model.",
     "Free version": null,
-    "GitHub Stars": 18154,
+    "GitHub Stars": 18167,
     "GitHub URL": "https://github.com/slundberg/shap",
     "Licenses": "MIT",
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo__ziow5_shap-logo.png\",\"title\":\"shap-logo.png\",\"mimetype\":\"image/png\",\"size\":8990}]",
@@ -14451,7 +14451,7 @@
     "Year created": null,
     "created_at": "2021-11-01 17:36:57",
     "id": 1986,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:12:00"
   },
   {
     "Category": "ML & AI, Explainability",
@@ -14480,7 +14480,7 @@
     "Closest alternatives": null,
     "Description": "Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter",
     "Free version": "Yes",
-    "GitHub Stars": 3639,
+    "GitHub Stars": 3638,
     "GitHub URL": "https://github.com/apache/incubator-heron",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_Squtee_IMG_3543.jpg\",\"title\":\"IMG_3543.jpg\",\"mimetype\":\"image/jpeg\",\"size\":32468}]",
@@ -14495,14 +14495,14 @@
     "Year created": null,
     "created_at": "2021-11-16 07:54:27",
     "id": 1988,
-    "updated_at": "2022-12-12 23:11:00"
+    "updated_at": "2022-12-15 23:12:00"
   },
   {
     "Category": "Infrastructure,Streaming/in-memory",
     "Closest alternatives": null,
     "Description": "Apache BookKeeper is a scalable, fault tolerant and low latency storage service optimized for append-only workloads.",
     "Free version": null,
-    "GitHub Stars": 1669,
+    "GitHub Stars": 1668,
     "GitHub URL": "https://github.com/apache/bookkeeper",
     "Licenses": "Apache-2.0",
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_RvhVKY_IMG_3544.PNG\",\"title\":\"IMG_3544.PNG\",\"mimetype\":\"image/png\",\"size\":130048}]",
@@ -14517,7 +14517,7 @@
     "Year created": null,
     "created_at": "2021-11-16 08:19:46",
     "id": 1989,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:12:00"
   },
   {
     "Category": "Analytics,Data analyst platforms",
@@ -14568,7 +14568,7 @@
     "Closest alternatives": null,
     "Description": "Visualizer for pandas data structures",
     "Free version": null,
-    "GitHub Stars": 3760,
+    "GitHub Stars": 3767,
     "GitHub URL": "https://github.com/man-group/dtale",
     "Licenses": null,
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_NbVwXq_dtale-logo.jpg\",\"title\":\"dtale-logo.jpg\",\"mimetype\":\"image/jpeg\",\"size\":8393}]",
@@ -14583,14 +14583,14 @@
     "Year created": null,
     "created_at": "2021-11-17 16:13:53",
     "id": 1992,
-    "updated_at": "2022-12-12 23:11:00"
+    "updated_at": "2022-12-15 23:12:00"
   },
   {
     "Category": "Infrastructure,Code versioning",
     "Closest alternatives": null,
     "Description": "Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts",
     "Free version": null,
-    "GitHub Stars": 5707,
+    "GitHub Stars": 5708,
     "GitHub URL": "https://github.com/mwouts/jupytext",
     "Licenses": null,
     "Logo": "[{\"url\":\"https://all-data-tools.s3.amazonaws.com/nc/tools_tp2z/db/uploads/nc_tp2z__tools/Logo_8ovTK3_image%20%283%29.png\",\"title\":\"image (3).png\",\"mimetype\":\"image/png\",\"size\":20474}]",
@@ -14605,7 +14605,7 @@
     "Year created": null,
     "created_at": "2021-11-17 16:24:52",
     "id": 1993,
-    "updated_at": "2022-12-13 23:11:00"
+    "updated_at": "2022-12-15 23:12:00"
   },
   {
     "Category": "Programming libraries/frameworks,Analytics",
@@ -14656,7 +14656,7 @@
     "Closest alternatives": null,
     "Description": "Xarray introduces labels in the form of dimensions, coordinates and attributes on top of raw NumPy-like arrays. It is particularly tailored to working with netCDF files, which are commonly used in climatology, meteorology and oceanography applications (e.g., weather forecasting, climate change).",
     "Free version": null,
-    "GitHub Stars": 2783,
+    "GitHub Stars": 2784,
     "GitHub URL": "https://github.com/pydata/xarray",
     "Licenses": "Apache License 2.0",
     "Logo": "",
@@ -14671,7 +14671,7 @@
     "Year created": null,
     "created_at": "2022-01-13 20:00:00",
     "id": 1996,
-    "updated_at": "2022-12-12 23:11:00"
+    "updated_at": "2022-12-15 23:12:00"
   },
   {
     "Category": "BI platforms,Analytics,Data analyst platforms",
